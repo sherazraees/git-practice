@@ -1,2 +1,4 @@
 Hello sheraz raees
 Welcome to Git hub world
+
+New file added for stashing exercise
