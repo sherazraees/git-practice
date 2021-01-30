@@ -1,0 +1,2 @@
+Tags are used for store additional information
+e.g Author, message, date
