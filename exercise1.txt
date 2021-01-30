@@ -2,3 +2,5 @@ Hello sheraz raees
 Welcome to Git hub world
 
 New file added for stashing exercise
+
+git stash save "message" ---> is used for emergency git casting

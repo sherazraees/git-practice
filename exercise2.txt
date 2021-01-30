@@ -1,1 +1,3 @@
 Stashing Exercise
+
+This is a test of the emergency git-casting system.
