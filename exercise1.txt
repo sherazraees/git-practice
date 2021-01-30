@@ -1,2 +1,4 @@
 Hello sheraz raees
 Welcome to Git hub world
+
+This commit is doing by using notepad.
